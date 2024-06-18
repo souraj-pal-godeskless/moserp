@@ -85,8 +85,4 @@ public class AndroidDevicePreparingTestRule extends ExternalResource {
             Log.e("SystemAnimations", "Could not change animation scale to " + animationScale + " :'(");
         }
     }
-
-
-    
-
 }
